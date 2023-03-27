@@ -1,2 +1,2 @@
 # image_classification
-image classification basic example
+Image classification is the process of assigning a label or a category to an image based on its visual content. It involves training a machine learning model on a set of labeled images to recognize patterns and features that distinguish different categories of images. The model then uses these learned patterns to classify new, unseen images into their respective categories. Image classification has numerous applications in fields such as computer vision, robotics, medical imaging, and self-driving cars, among others.
